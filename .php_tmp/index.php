@@ -21,9 +21,7 @@
     </div>
 
     <div class="Button">
-        <p>
-            <a class="Next-page" href="page/page2.php">Next Card</a>
-        </p>
+        <a class="Next-page" href="page/page2.php">Next Card</a>
     </div>
 </body>
 </html>
